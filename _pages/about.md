@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website! I'm Emilio Bravo, a passionate AI Engineer with a strong background in machine learning and data science. With a Master's degree in Artificial Intelligence from Pontificia Universidad Católica, I've developed a solid foundation in designing and implementing efficient algorithms and architectures to optimize business processes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a seasoned data professional, I've had the opportunity to work with various organizations, including DataPulse, CODELCO, and CEPAL, where I've applied my skills in data engineering, machine learning, and data visualization to drive business growth and improvement. My expertise includes Python, Next.js, Docker, FastAPI, Azure and Power BI among others.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not working, you can find me exploring the latest advancements in AI and machine learning or collaborating with other professionals on exciting projects. I'm committed to staying up-to-date with the latest industry trends and technologies, and I'm always looking for opportunities to learn and grow.
+
+If you'd like to connect with me, you can find me on [GitHub](https://github.com/ebravofm). 
+
+Feel free to browse my website and get in touch with me if you have any questions or would like to collaborate on a project. I look forward to hearing from you!
