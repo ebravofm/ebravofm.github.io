@@ -21,10 +21,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Welcome to my personal website! I'm Emilio Bravo, a passionate AI Engineer with a strong background in machine learning and data science. With a Master's degree in Artificial Intelligence from Pontificia Universidad Católica, I've developed a solid foundation in designing and implementing efficient algorithms and architectures to optimize business processes.
