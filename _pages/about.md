@@ -22,7 +22,7 @@ announcements:
 
 Hey! I'm Emilio Bravo, a passionate AI Engineer and co-founder of [**DataPulse**](https://datapulse.cl), an agency dedicated to delivering digital services based on the integration of AI into our clients' business processes. With a Master's degree in Artificial Intelligence from Pontificia Universidad Católica, I have developed a solid foundation in designing and implementing efficient algorithms and architectures to optimize business operations.
 
-As a seasoned data professional, I've had the opportunity to work with various organizations, including DataPulse, CODELCO, and CEPAL, where I've applied my skills in data engineering, machine learning, and data visualization to drive business growth and improvement. My expertise includes Python, Next.js, Docker, FastAPI, Azure, and Power BI, among others.
+As a seasoned data professional, I've had the opportunity to work with various organizations, including CODELCO, ECLAC, the Central Bank of Chile and the University of Chile where I've applied my skills in data engineering, machine learning, and data visualization to drive business growth and improvement. My expertise includes Python, Next.js, Docker, FastAPI, Azure, and Power BI, among others.
 
 When I'm not working, you can find me exploring the latest advancements in AI and machine learning or collaborating with other professionals on exciting projects. I'm committed to staying up-to-date with the latest industry trends and technologies, and I'm always looking for opportunities to learn and grow.
 
