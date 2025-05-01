@@ -25,33 +25,33 @@
   "work": [
     {
       "name": "Agencia DataPulse",
-      "position": "Senior Data Scientist",
+      "position": "Co-founder & AI Engineer",
       "url": "",
-      "startDate": "2024-01-01",
+      "startDate": "2024-06-01",
       "endDate": "2025-01-01",
       "summary": "Developing job scheduling solutions in the mining industry, creating personalized chatbot agents, and building dashboards and data pipelines for monitoring compliance.",
       "highlights": []
     },
     {
-      "name": "Vicepresidencia de Proyectos, CODELCO CHILE",
+      "name": "Vicepresidency of Projects, CODELCO CHILE",
       "position": "Data Engineer - Sala de Control Cartera Teniente",
       "url": "",
       "startDate": "2020-01-01",
-      "endDate": "2020-12-31",
+      "endDate": "2024-06-31",
       "summary": "Mapping and optimizing data capture processes, integrating data capture tools in the field, developing ETL architecture with Azure, and creating indicators and reports in Power BI.",
       "highlights": []
     },
     {
-      "name": "D-Proyecta Consultores",
+      "name": "D-Proyecta Consulting",
       "position": "Process Engineer",
       "url": "",
       "startDate": "2018-01-01",
-      "endDate": "2018-12-31",
+      "endDate": "2019-12-31",
       "summary": "Consultancies in process optimization for mining companies and implementation of a Digital Signature System in CODELCO.",
       "highlights": []
     },
     {
-      "name": "IAS: Instituto de Administración en Salud, U. de Chile",
+      "name": "IAS: Institute of Health Administration, U. de Chile",
       "position": "Data Engineer",
       "url": "",
       "startDate": "2017-01-01",
@@ -60,7 +60,7 @@
       "highlights": []
     },
     {
-      "name": "CEPAL, Naciones Unidas",
+      "name": "ECLAC, United Nations",
       "position": "Consultant",
       "url": "",
       "startDate": "2016-01-01",
@@ -69,7 +69,7 @@
       "highlights": []
     },
     {
-      "name": "Banco Central de Chile",
+      "name": "Central Bank of Chile",
       "position": "Macroeconomic Analyst",
       "url": "",
       "startDate": "2016-01-01",
@@ -81,8 +81,8 @@
   "education": [
     {
       "institution": "Pontificia Universidad Católica",
-      "location": "",
-      "url": "",
+      "location": "Santiago, Chile",
+      "url": "https://mia.uc.cl/",
       "area": "Artificial Intelligence",
       "studyType": "Master",
       "startDate": "2023-01-01",
@@ -109,12 +109,19 @@
       "issuer": "Hugging Face",
       "url": "",
       "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Data Science and Big Data Analytics: Making Data-Driven Decisions",
+      "date": "2017-01-01",
+      "issuer": "MIT xPRO",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [
     {
       "name": "Políticas de Desarrollo: La contribución de las asociaciones empresariales al desarrollo de las políticas productivas.",
-      "publisher": "CEPAL",
+      "publisher": "ECLAC",
       "releaseDate": "2020-01-01",
       "url": "",
       "summary": "Co-author, highlighting the contributions of business associations to productive policy development."
